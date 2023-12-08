@@ -8,6 +8,8 @@ public class Testcases {
 
 	@Test
 	public void test() {
+		
+		System.out.println("Git");
 		fail("Not yet implemented");
 	}
 
