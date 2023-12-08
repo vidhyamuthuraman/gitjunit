@@ -10,6 +10,7 @@ public class Testcases {
 	public void test() {
 		
 		System.out.println("Git");
+		System.out.println("From code");
 		fail("Not yet implemented");
 	}
 
